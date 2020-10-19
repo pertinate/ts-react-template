@@ -1,5 +1,5 @@
 [![npm version](https://badge.fury.io/js/angular2-expandable-list.svg)](https://badge.fury.io/js/angular2-expandable-list)
-# ts-template
+# ts-react-template
 > A template for creating your own Typescript project
 
 ## Prerequisites
